@@ -1,4 +1,4 @@
-## AIFFEL 온라인 9기
+## AIFFEL 온라인 8기
 
 05/14 ```first_quest```
 - 아이펠 적응하기 7. GitHub 사용방법과 실습 [프로젝트]
@@ -37,25 +37,25 @@
 - Deep Dive(NLP) 6. 뉴스 카테고리 다중분류 [프로젝트]
 
 07/05 ```embedding_bias```
-- 9. 임베딩 내 편향성 알아보기 [프로젝트]
+- Deep Dive(NLP) 9. 임베딩 내 편향성 알아보기 [프로젝트]
 
 07/09 ```seq2seq_translator```
-- 12. Seq2seq으로 번역기 만들기 [프로젝트]
+- Deep Dive(NLP) 12. Seq2seq으로 번역기 만들기 [프로젝트]
 
 07/09 ```transformer_translator```
-- 15. Transformer로 번역기 만들기 [프로젝트]
+- Deep Dive(NLP) 15. Transformer로 번역기 만들기 [프로젝트]
 
 07/09 ```transformer_translator_chatbot```
-- 18. 번역가는 대화에도 능하다 [프로젝트]
+- Deep Dive(NLP) 18. 번역가는 대화에도 능하다 [프로젝트]
 
 07/09 ```pretrain_BERT```
-- 21. BERT pretrained model 제작 [프로젝트]
+- Deep Dive(NLP) 21. BERT pretrained model 제작 [프로젝트]
 
 07/09 ```huggingface```
-- 24. HuggingFace 커스텀 프로젝트 만들기 [프로젝트]
+- Deep Dive(NLP) 24. HuggingFace 커스텀 프로젝트 만들기 [프로젝트]
 
 07/23 ```koChatGPT```
-- 27. LLM Trend Note 2 [프로젝트]
+- Deep Dive(NLP) 27. LLM Trend Note 2 [프로젝트]
  
 07/25 ```Aiffel_MainQuest3```
 - Main QUEST 3 논문 작성해보기
