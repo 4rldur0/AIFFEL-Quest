@@ -5,3 +5,4 @@ kaggle_kakr_housing/logs.log
 pretrain_BERT/
 huggingface/outputs/
 */logs
+*/__pycache__
